@@ -1,0 +1,33 @@
+\babel@toc {indonesian}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Grafik Perkembangan Kasus \emph {COVID-19} \citep {cit:covidcase}.}}{2}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arsitektur CNN \citep {cit:cnn}}}{5}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Contoh Citra RGB\citep {cit:cnn}}}{6}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Convolutional Layer\citep {cit:cnn}}}{7}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Pooling Layer\citep {cit:cnn}}}{10}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Arsitektur EfficientNet \citep {cit:effnet}}}{11}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Comparison of CNN Model Scaling \citep {cit:effnet}}}{12}{figure.2.6}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Akurasi EfficientNet pada dataset \textit {ImageNet} \citep {cit:effnet}}}{13}{figure.2.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Alur Kerja}}{15}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Sampel dataset Kaggle\cite {cit:kaggledata}}}{17}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Setup pengambilan dataset menggunakan webcam}}{18}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Contoh hasil video webcam}}{18}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Contoh hasil Video DSLR}}{20}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Setup pengambilan dataset menggunakan DSLR}}{20}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Sistem Klasifikasi Gerakan Cuci Tangan}}{22}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Struktur Model Klasifikasi Gerakan Cuci Tangan}}{25}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Sistem Klasifikasi Gerakan Video Cuci Tangan}}{27}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Contoh Hasil Klasifikasi}}{28}{figure.3.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sample sudut pengambilan citra video}}{30}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Sample setup pengambilan citra video}}{31}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Train and Validation Accuracy}}{32}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Train and Validation Loss}}{32}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion Matrix}}{33}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Pengujian Berdasarkan Sudut (Benar)}}{34}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Pengujian Berdasarkan Sudut (Salah)}}{34}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Pengujian Berdasarkan Setup (Benar)}}{35}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Pengujian Berdasarkan Setup (Salah)}}{35}{figure.4.9}%
+\addvspace {10\p@ }
